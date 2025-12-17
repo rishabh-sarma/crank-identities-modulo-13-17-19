@@ -1,4 +1,4 @@
-The three Maple files contain codes to finding and proving partition crank identities modulo higher primes. These identities express elements of the p-dissections of the two variable partition crank generating function (variable z being replaced by the primitive 
+The three Maple files contain codes to finding and proving partition crank identities modulo higher primes. These identities express elements of the p-dissection of the two variable partition crank generating function (variable z being replaced by the primitive 
 p-th root  of unity) in terms of quotients of generalized eta products with cyclotomic coefficients. The identities appear in my paper "Transformation and symmetries for the Andrews–Garvan crank function Hardy–Ramanujan J. 47 (2024), 1–25". 
 
 The codes implement an algorithm described in my rank symmetry paper with Frank Garvan "New symmetries for Dyson’s rank function, Ramanujan J. 65 (2024), 1883–1939" to prove the identities. In the crank symmetry paper, it is established that the elements of the 
